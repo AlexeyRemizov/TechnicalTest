@@ -1,0 +1,6 @@
+C:\Users\Alexey\Documents\Visual Studio 2017\Projects\technicalTask\technicalTask\bin\Debug\technicalTask.exe.config
+C:\Users\Alexey\Documents\Visual Studio 2017\Projects\technicalTask\technicalTask\bin\Debug\technicalTask.exe
+C:\Users\Alexey\Documents\Visual Studio 2017\Projects\technicalTask\technicalTask\bin\Debug\technicalTask.pdb
+C:\Users\Alexey\Documents\Visual Studio 2017\Projects\technicalTask\technicalTask\obj\Debug\technicalTask.csprojResolveAssemblyReference.cache
+C:\Users\Alexey\Documents\Visual Studio 2017\Projects\technicalTask\technicalTask\obj\Debug\technicalTask.exe
+C:\Users\Alexey\Documents\Visual Studio 2017\Projects\technicalTask\technicalTask\obj\Debug\technicalTask.pdb
